@@ -1,2 +1,2 @@
 # npm i 
-# pm start
+# npm start
